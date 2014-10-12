@@ -1,9 +1,16 @@
 {
   "name": "perk11/russianisocc",
+  "type": "library",
+  "homepage": "https://github.com/perk11/RussianISOCC",
+  "license": "unlicense",
   "description": "Getting Russian country name by ISO code. Получение полного русского названия страны в PHP по ISO-коду",
+  "keywords": ["russian","CC","country codes","ISO 3166-1"],
   "autoload": {
     "psr-0": {
       "RussianISOCC": "src"
     }
+  },
+  "require": {
+    "php": ">=5.3.0"
   }
 }
