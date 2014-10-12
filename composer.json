@@ -1,0 +1,9 @@
+{
+  "name": "perk11/russianisocc",
+  "description": "Getting Russian country name by ISO code. Получение полного русского названия страны в PHP по ISO-коду",
+  "autoload": {
+    "psr-0": {
+      "RussianISOCC": "src"
+    }
+  }
+}
